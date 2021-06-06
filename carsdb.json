@@ -1,10 +1,10 @@
 [
   {
-    "name": "Audi R8",
-    "price": "$227,995",
-     "type": "Coupe",
+    "name": "BMW X7",
+    "price": "$83,900",
+     "type": "SUV",
      "seat": "2 Seats",
-     "mpg": "16-17 MPG",
+     "mpg": "6-7 Seats",
      "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/bmw.png"
   },
    {
