@@ -5,7 +5,7 @@
      "type": "Coupe",
      "seat": "2 Seats",
      "mpg": "16-17 MPG",
-    "description": "Carbon Fiber Front Spoiler,Sport Seat Package W/Diamond Stitching,Bang & Olufsen Sound System,Dynamic Steering,Red Brake Calipers,Mythos Black Metallic,Contrast Stitching,Leather Seats,Navigation System,Black Audi Rings & Badges,Keyless Start,Bluetooth Connection,Rear Spoiler,Convertible Soft Top,All Wheel Drive,Black/Express Red Stitch; Diamond Stitched Seat Trim,Delete Front License Plate Holder,Wheels: 20"5",
+     "description": "Carbon Fiber Front Spoiler,Sport Seat Package W/Diamond Stitching,Bang & Olufsen Sound System,Dynamic Steering,Red Brake Calipers,Mythos Black Metallic,Contrast Stitching,Leather Seats,Navigation System,Black Audi Rings & Badges,Keyless Start,Bluetooth Connection,Rear Spoiler,Convertible Soft Top,All Wheel Drive,Black/Express Red Stitch; Diamond Stitched Seat Trim,Delete Front License Plate Holder,Wheels: 20"5",
      "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/bmw.png"
   },
    {
@@ -68,7 +68,7 @@
      "type": "Coupe",
      "seat": "2 Seats",
      "mpg": "16-17 MPG",
-    "description": "The X7 SUV is the largest vehicle in BMW’s lineup, and it can seat up to seven people in three rows. The xDrive40i version is powered by a 335-horsepower, turbocharged 3.0-liter inline-six engine, while the M50i gets a twin-turbo 4.4-liter V-8 that makes 523 hp. Both engines work with an eight-speed automatic transmission, and all-wheel drive is standard. Competitors include the Mercedes-Benz GLS-Class and Land Rover Range Rover. ",
+     "description": "The X7 SUV is the largest vehicle in BMW’s lineup, and it can seat up to seven people in three rows. The xDrive40i version is powered by a 335-horsepower, turbocharged 3.0-liter inline-six engine, while the M50i gets a twin-turbo 4.4-liter V-8 that makes 523 hp. Both engines work with an eight-speed automatic transmission, and all-wheel drive is standard. Competitors include the Mercedes-Benz GLS-Class and Land Rover Range Rover. ",
      "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/bmw.png"
   }
 ]
