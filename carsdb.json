@@ -5,7 +5,7 @@
      "type": "Coupe",
      "seat": "2 Seats",
      "mpg": "16-17 MPG",
-     "description": "Carbon Fiber Front Spoiler,Sport Seat Package W/Diamond Stitching,Bang & Olufsen Sound System,Dynamic Steering,Red Brake Calipers,Mythos Black Metallic,Contrast Stitching,Leather Seats,Navigation System,Black Audi Rings & Badges,Keyless Start,Bluetooth Connection,Rear Spoiler,Convertible Soft Top,All Wheel Drive,Black/Express Red Stitch; Diamond Stitched Seat Trim,Delete Front License Plate Holder,Wheels: 20"5",
+     "description": "Carbon Fiber Front Spoiler,Sport Seat Package W/Diamond Stitching,Bang &  Diamond Stitched Seat Trim,Delete Front License Plate Holder,Wheels: 20"5",
      "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/bmw.png"
   },
    {
@@ -14,7 +14,7 @@
      "type": "SUV",
      "seat": "4-5 Seats",
      "mpg": "14-17 MPG",
-    "description": "In terms of what's under the hood, Ford is going with an all-forced-induction engine lineup; there are no naturally aspirated options. The base engine is the 2.3-liter turbocharged EcoBoost four-cylinder borrowed from the Ranger, and Ford estimates it will put out 270 hp and 310 lb-ft. (For those keeping score, that's the same horsepower as the Wrangler's optional 2.0-liter turbo, but with a smidge more torque.) If you put premium fuel in the thank, power rises to 300 hp and 325 lb-ft of torque. ",
+    "description": "In terms of what's under the hood, Ford is going with an all-forced-induction engine lineup; there are no naturally aspirated options. The base engine is the 2.3-liter turbocharged ",
      "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/fordbronco.png"
   },
    {
