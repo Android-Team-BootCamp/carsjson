@@ -3,8 +3,8 @@
     "name": "BMW X7",
     "price": "$83,900",
      "type": "SUV",
-     "seat": "2 Seats",
-     "mpg": "6-7 Seats",
+     "seat": "6-7 Seats",
+     "mpg": "15-17 MPG",
      "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/bmw.png"
   },
    {
