@@ -16,60 +16,6 @@
      "mpg": "14-17 MPG",
     "description": "In terms of what's under the hood, Ford is going with an all-forced-induction engine lineup; there are no naturally aspirated options. The base engine is the 2.3-liter turbocharged ",
      "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/fordbronco.png"
-  },
-   {
-    "name": "Audi A6",
-    "price": "$62,115",
-     "type": "Sedan",
-     "seat": "5 Seats",
-     "mpg": "24-26 MPG",
-    "description": "Base sedans are powered by a 248-hp, turbocharged 2.0-liter four-cylinder engine that works with a seven-speed dual-clutch automatic transmission. A 335-hp, turbocharged 3.0-liter V-6 is available, and this engine also powers the Allroad wagon.",
-     "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/auidaalti.png"
-  },
-    {
-    "name": "BMW X7",
-    "price": "$83,900",
-     "type": "SUV",
-     "seat": "6-7 Seats",
-     "mpg": "17-21 MPG",
-    "description": "The X7 SUV is the largest vehicle in BMW’s lineup, and it can seat up to seven people in three rows. The xDrive40i version is powered by a 335-horsepower, turbocharged 3.0-liter inline-six engine, while the M50i gets a twin-turbo 4.4-liter V-8 that makes 523 hp. Both engines work with an eight-speed automatic transmission, and all-wheel drive is standard. Competitors include the Mercedes-Benz GLS-Class and Land Rover Range Rover. ",
-     "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/bmw.png"
-  },
-   {
-    "name": "Audi R8",
-    "price": "$227,995",
-     "type": "Coupe",
-     "seat": "2 Seats",
-     "mpg": "16-17 MPG",
-    "description": "The X7 SUV is the largest vehicle in BMW’s lineup, and it can seat up to seven people in three rows. The xDrive40i version is powered by a 335-horsepower, turbocharged 3.0-liter inline-six engine, while the M50i gets a twin-turbo 4.4-liter V-8 that makes 523 hp. Both engines work with an eight-speed automatic transmission, and all-wheel drive is standard. Competitors include the Mercedes-Benz GLS-Class and Land Rover Range Rover. ",
-     "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/bmw.png"
-  },
-   {
-    "name": "Audi R8",
-    "price": "$227,995",
-     "type": "Coupe",
-     "seat": "2 Seats",
-     "mpg": "16-17 MPG",
-    "description": "The X7 SUV is the largest vehicle in BMW’s lineup, and it can seat up to seven people in three rows. The xDrive40i version is powered by a 335-horsepower, turbocharged 3.0-liter inline-six engine, while the M50i gets a twin-turbo 4.4-liter V-8 that makes 523 hp. Both engines work with an eight-speed automatic transmission, and all-wheel drive is standard. Competitors include the Mercedes-Benz GLS-Class and Land Rover Range Rover. ",
-     "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/bmw.png"
-  },
-    {
-    "name": "Audi R8",
-    "price": "$227,995",
-     "type": "Coupe",
-     "seat": "2 Seats",
-     "mpg": "16-17 MPG",
-    "description": "The X7 SUV is the largest vehicle in BMW’s lineup, and it can seat up to seven people in three rows. The xDrive40i version is powered by a 335-horsepower, turbocharged 3.0-liter inline-six engine, while the M50i gets a twin-turbo 4.4-liter V-8 that makes 523 hp. Both engines work with an eight-speed automatic transmission, and all-wheel drive is standard. Competitors include the Mercedes-Benz GLS-Class and Land Rover Range Rover. ",
-     "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/bmw.png"
-  },
-    {
-    "name": "Audi R8",
-    "price": "$227,995",
-     "type": "Coupe",
-     "seat": "2 Seats",
-     "mpg": "16-17 MPG",
-     "description": "The X7 SUV is the largest vehicle in BMW’s lineup, and it can seat up to seven people in three rows. The xDrive40i version is powered by a 335-horsepower, turbocharged 3.0-liter inline-six engine, while the M50i gets a twin-turbo 4.4-liter V-8 that makes 523 hp. Both engines work with an eight-speed automatic transmission, and all-wheel drive is standard. Competitors include the Mercedes-Benz GLS-Class and Land Rover Range Rover. ",
-     "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/bmw.png"
   }
 ]
 
