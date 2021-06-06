@@ -43,7 +43,7 @@
     "name": "Ford F-450",
     "price": "$50,410",
      "type": "Pickup",
-     "seat": "2-6 Seatss",
+     "seat": "2-6 Seats",
      "mpg": "19 MPG",
      "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/fordf.png"
   },
