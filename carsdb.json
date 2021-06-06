@@ -32,20 +32,20 @@
      "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/acuransx.png"
   },
    {
-    "name": "Ford Bronco",
-    "price": "$52,085",
-     "type": "SUV",
-     "seat": "2 Seats",
-     "mpg": "21 MPG",
-     "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/fordbronco.png"
+    "name": "BMW i3",
+    "price": "$51,500",
+     "type": "Hatchback",
+     "seat": "4 Seats",
+     "mpg": "114 MPG",
+     "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/bmwi.png"
   },
   {
-    "name": "Ford Bronco",
-    "price": "$52,085",
-     "type": "SUV",
-     "seat": "4-5 Seats",
-     "mpg": "14-17 MPG",
-     "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/fordbronco.png"
+    "name": "Ford F-450",
+    "price": "$50,410",
+     "type": "Pickup",
+     "seat": "2-6 Seatss",
+     "mpg": "19 MPG",
+     "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/fordf.png"
   },
   {
     "name": "Ford Bronco",
