@@ -29,14 +29,14 @@
      "type": "Coupe",
      "seat": "4-5 Seats",
      "mpg": "14-17 MPG",
-     "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/fordbronco.png"
+     "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/acuransx.png"
   },
    {
     "name": "Ford Bronco",
     "price": "$52,085",
      "type": "SUV",
      "seat": "2 Seats",
-     "mpg": "14-17 MPG",
+     "mpg": "21 MPG",
      "image": "https://raw.githubusercontent.com/Android-Team-BootCamp/carsjson/master/fordbronco.png"
   },
   {
